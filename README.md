@@ -1,7 +1,14 @@
 # file-protection
-project file-protection:
 A data security tool allows you to protect and unprotect files with a password
 
-Library required excluding standard libraries:
+Requirements
 
-cryptography [pip install cryptography] 
+    cryptography 
+    
+Installation
+
+    pip install cryptography
+
+How to use?
+
+    python app.py
